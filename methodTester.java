@@ -3,6 +3,6 @@ import org.junit.*;
 public class methodTester {
     @Test
     public void countBanana() {
-        assertEquals(1, method.charCount("Banana"));
+        assertEquals(6, method.charCount("Banana"));
     }
 }
